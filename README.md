@@ -3,7 +3,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1643/1643996.png" alt="Developer Roadmap" width="120" height="120">
   </a>
 </p>
-  <h2 align="center">Artificial Intelligence Projects Display</h2>
+  <h2 align="center">Data Analysis Projects Display</h2>
  <div align="center"> 
   <a href="https://twitter.com/marcoshsq" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcoshsq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -15,10 +15,7 @@
 ---
 
 
-# About:
-
-
-# Data Analysis Projects
+## About:
 
 I like to keep things organized, so I created this repository to serve as a hub for all my Data Analytics/Data Science related projects.  This is a way for me to find these projects in an easier way in a centralized location.
 
