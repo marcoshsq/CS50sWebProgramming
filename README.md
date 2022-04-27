@@ -23,6 +23,8 @@ Here are the links to the original repositories where the codes of these project
 
 ---
 
+- [Word Cloud in Python](https://github.com/marcoshsq/How_to_create_a_WordCloud) 
+
 - [IBM: Data Science Certificate Projects](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects) - Repository containing the projects developed during the IBM Data Science Professional Certificate Specialization. Six in total.
 
 ---
