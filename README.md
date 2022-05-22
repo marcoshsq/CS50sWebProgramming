@@ -1,4 +1,4 @@
-<h2 align="center">Imersão Dados</h2>
+<h2 align="center">Imersão Dados - Alura</h2>
 
 ---
 
