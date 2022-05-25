@@ -8,7 +8,7 @@
 
 ### About the course:
 
-The [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics) is a five week course, availeble on Coursera
+The [Data Analysis with R Programming](https://www.coursera.org/learn/data-analysis-r?specialization=google-data-analytics) it is a five-week course, available on Coursera, which is part of the Google Data Analytics Professional Certificate. The topics covered in the course are:
 
 Week 01: Understanding the basics of R: R is a programming language that can be used to perform tasks in every phase of the data analysis process. In this part of the course, you will learn about R and RStudio, an integrated developer environment (IDE) for R. You will explore the benefits of using RStudio to work with R. RStudio enables you to easily leverage the features and functionality of R. 
 
