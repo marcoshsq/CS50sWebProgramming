@@ -8,7 +8,7 @@
 
 <h3>About:</h3>
 
-This repository contains my studies of the Python language and its libraries focused on Data Analysis.
+This repository contains the projects, activities, and assignments of the professional certificate in data science from the Johns Hopkins University available on Coursera.
 
 ##
 
