@@ -6,6 +6,14 @@
   <h2 align="center">Data Science by Johns Hopkins University</h2>
 </div>
 
+## Content:
+
+- [About]()
+  - []()
+  - []()
+  - []()
+  - []()
+
 ## About:
 
 This repository contains the projects, activities, and assignments from the Data Science Professional Certificate, Data Literacy Specialization, Tidyverse Skills for Data Science in R Specialization, and Data Visualization & Dashboarding with R Specialization.
