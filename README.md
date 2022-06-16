@@ -43,9 +43,30 @@ This specialization has ten courses:
 
 ##
 
-<h3>Contents:</h3>
+### About the [Tidyverse Skills for Data Science in R Specialization](https://www.coursera.org/specializations/tidyverse-data-science-r):
 
-- []()
-- []()
+This specialization has five courses:
+
+1. [Introduction to the Tidyverse](https://www.coursera.org/learn/tidyverse?specialization=tidyverse-data-science-r)
+2. [Importing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-importing-data?specialization=tidyverse-data-science-r)
+3. [Wrangling Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-data-wrangling?specialization=tidyverse-data-science-r)
+4. [Visualizing Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-visualize-data?specialization=tidyverse-data-science-r)
+5. [Modeling Data in the Tidyverse](https://www.coursera.org/learn/tidyverse-modelling-data?specialization=tidyverse-data-science-r)
+
+##
+
+### About the [Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r):
+
+This specialization has five courses:
+
+1. [Getting Started with Data Visualization in R](https://www.coursera.org/learn/jhu-getting-started-data-viz-r?specialization=jhu-data-visualization-dashboarding-with-r)
+2. [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r)
+3. [Advanced Data Visualization with R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r)
+4. [Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards?specialization=jhu-data-visualization-dashboarding-with-r)
+5. [https://www.coursera.org/learn/data-visualization-capstone?specialization=jhu-data-visualization-dashboarding-with-r](https://www.coursera.org/learn/data-visualization-capstone?specialization=jhu-data-visualization-dashboarding-with-r)
+
+##
+
+
 
 ---
