@@ -7,23 +7,18 @@
 
 ## About:
 
+This repository contains the projects developed during the Data Science Professional Certificate, Data Literacy, Tidyverse Skills, and DataViz & Dashboarding with R Specializations.
+
+All courses are taught and offered by Johns Hopkins University through Coursera.
+
 ---
 
 ## Folders:
 
-### Data Literacy:
-
-##
-
-### Data Science Professional Certificate:
-
-##
-
-### Tidyverse Skills for Data Science in R:
-
-##
-
-### Data Visualization & Dashboarding with R:
+- [Data Literacy](https://github.com/marcoshsq/JHUDataScience/tree/main/01.%20Data%20Literacy%20Specialization)
+- [Data Science Professional Certificate](https://github.com/marcoshsq/JHUDataScience/tree/main/02.%20Data%20Science%20Professional%20Certificate)
+- [Tidyverse Skills for Data Science in R](https://github.com/marcoshsq/JHUDataScience/tree/main/03.%20Tidyverse%20Skills%20for%20Data%20Science%20in%20R%20Specialization)
+- [Data Visualization & Dashboarding with R](https://github.com/marcoshsq/JHUDataScience/tree/main/04.%20Data%20Visualization%20%26%20Dashboarding%20with%20R)
 
 ---
 
