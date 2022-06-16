@@ -63,7 +63,7 @@ This specialization has five courses:
 2. [Data Visualization in R with ggplot2](https://www.coursera.org/learn/jhu-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r)
 3. [Advanced Data Visualization with R](https://www.coursera.org/learn/jhu-advanced-data-visualization-r?specialization=jhu-data-visualization-dashboarding-with-r)
 4. [Publishing Visualizations in R with Shiny and flexdashboard](https://www.coursera.org/learn/data-viz-shiny-dashboards?specialization=jhu-data-visualization-dashboarding-with-r)
-5. [https://www.coursera.org/learn/data-visualization-capstone?specialization=jhu-data-visualization-dashboarding-with-r](https://www.coursera.org/learn/data-visualization-capstone?specialization=jhu-data-visualization-dashboarding-with-r)
+5. [Data Visualization Capstone](https://www.coursera.org/learn/data-visualization-capstone?specialization=jhu-data-visualization-dashboarding-with-r)
 
 ##
 
