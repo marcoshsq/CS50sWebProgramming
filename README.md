@@ -6,15 +6,15 @@
   <h2 align="center">Data Science by Johns Hopkins University</h2>
 </div>
 
-## Content:
+### Content:
 
-- [About]()
-  - []()
-  - []()
-  - []()
-  - []()
+- [About](https://github.com/marcoshsq/JHUDataScience#about)
+  - [Data Literacy Specialization](https://github.com/marcoshsq/JHUDataScience#about-the-data-literacy-specialization)
+  - [Data Science Professional Certificate](https://github.com/marcoshsq/JHUDataScience#about-the-data-science-professional-certificate)
+  - [Tidyverse Skills for Data Science in R Specialization](https://github.com/marcoshsq/JHUDataScience#about-the-tidyverse-skills-for-data-science-in-r-specialization)
+  - [Data Visualization & Dashboarding with R](https://github.com/marcoshsq/JHUDataScience#about-the-data-visualization--dashboarding-with-r)
 
-## About:
+### About:
 
 This repository contains the projects, activities, and assignments from the Data Science Professional Certificate, Data Literacy Specialization, Tidyverse Skills for Data Science in R Specialization, and Data Visualization & Dashboarding with R Specialization.
 
@@ -22,7 +22,7 @@ All courses are taught and offered by Johns Hopkins University, and are availabl
 
 ##
 
-### About the [Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy)
+#### About the [Data Literacy Specialization](https://www.coursera.org/specializations/data-literacy):
 
 This specialization has five courses:
 
@@ -34,7 +34,7 @@ This specialization has five courses:
 
 ##
 
-### About the [Data Science Professional Certificate](https://www.coursera.org/specializations/jhu-data-science):
+#### About the [Data Science Professional Certificate](https://www.coursera.org/specializations/jhu-data-science):
 
 This specialization has ten courses:
 
@@ -51,7 +51,7 @@ This specialization has ten courses:
 
 ##
 
-### About the [Tidyverse Skills for Data Science in R Specialization](https://www.coursera.org/specializations/tidyverse-data-science-r):
+#### About the [Tidyverse Skills for Data Science in R Specialization](https://www.coursera.org/specializations/tidyverse-data-science-r):
 
 This specialization has five courses:
 
@@ -63,7 +63,7 @@ This specialization has five courses:
 
 ##
 
-### About the [Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r):
+#### About the [Data Visualization & Dashboarding with R](https://www.coursera.org/specializations/jhu-data-visualization-dashboarding-with-r):
 
 This specialization has five courses:
 
