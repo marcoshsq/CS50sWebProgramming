@@ -8,13 +8,13 @@
 
 <h3>About:</h3>
 
-This repository contains the projects, activities, and assignments of the professional certificate in data science from the Johns Hopkins University available on Coursera.
+This repository contains the projects, activities, and assignments from the Data Science Professional Certificate, Data Literacy Specialization, Tidyverse Skills for Data Science in R Specialization, and Data Visualization & Dashboarding with R Specialization.
 
-#### About the Specialization:
+All courses are taught and offered by Johns Hopkins University, and are available on the Coursera platform.
+
+#### About the [Data Science Professional Certificate](https://www.coursera.org/specializations/jhu-data-science):
 
 This specialization has ten courses:
-
- - [Specialization link](https://www.coursera.org/specializations/jhu-data-science)
 
 1. [Data Scientist toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science)
 2. [R Programming Language](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)
