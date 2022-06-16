@@ -18,13 +18,13 @@ This specialization has ten courses:
 
 1. [Data Scientist toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science)
 2. [R Programming Language](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)
-3. [](https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science)
-4. [](https://www.coursera.org/learn/exploratory-data-analysis?specialization=jhu-data-science)
-5. [](https://www.coursera.org/learn/reproducible-research?specialization=jhu-data-science)
-6. [](https://www.coursera.org/learn/statistical-inference?specialization=jhu-data-science)
-7. [](https://www.coursera.org/learn/regression-models?specialization=jhu-data-science)
-8. [](https://www.coursera.org/learn/practical-machine-learning?specialization=jhu-data-science)
-9. [](https://www.coursera.org/learn/data-products?specialization=jhu-data-science)
+3. [Obtaining and Cleaning Data](https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science)
+4. [Exploratory Data Analysis](https://www.coursera.org/learn/exploratory-data-analysis?specialization=jhu-data-science)
+5. [Reproducible Search](https://www.coursera.org/learn/reproducible-research?specialization=jhu-data-science)
+6. [Statistical inference](https://www.coursera.org/learn/statistical-inference?specialization=jhu-data-science)
+7. [Regressive Models](https://www.coursera.org/learn/regression-models?specialization=jhu-data-science)
+8. [Machine Learning in Practice](https://www.coursera.org/learn/practical-machine-learning?specialization=jhu-data-science)
+9. [Data Development](https://www.coursera.org/learn/data-products?specialization=jhu-data-science)
 10. [Data Science](https://www.coursera.org/learn/data-science-project?specialization=jhu-data-science)
 
 ##
