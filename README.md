@@ -10,7 +10,22 @@
 
 This repository contains the projects, activities, and assignments of the professional certificate in data science from the Johns Hopkins University available on Coursera.
 
+#### About the Specialization:
+
+This specialization has ten courses:
+
  - [Specialization link](https://www.coursera.org/specializations/jhu-data-science)
+
+1. [Data Scientist toolbox](https://www.coursera.org/learn/data-scientists-tools?specialization=jhu-data-science)
+2. [R Programming Language](https://www.coursera.org/learn/r-programming?specialization=jhu-data-science)
+3. [](https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science)
+4. [](https://www.coursera.org/learn/exploratory-data-analysis?specialization=jhu-data-science)
+5. [](https://www.coursera.org/learn/reproducible-research?specialization=jhu-data-science)
+6. [](https://www.coursera.org/learn/statistical-inference?specialization=jhu-data-science)
+7. [](https://www.coursera.org/learn/regression-models?specialization=jhu-data-science)
+8. [](https://www.coursera.org/learn/practical-machine-learning?specialization=jhu-data-science)
+9. [](https://www.coursera.org/learn/data-products?specialization=jhu-data-science)
+10. [Data Science](https://www.coursera.org/learn/data-science-project?specialization=jhu-data-science)
 
 ##
 
