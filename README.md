@@ -13,6 +13,9 @@
   - [Data Science Professional Certificate](https://github.com/marcoshsq/JHUDataScience#about-the-data-science-professional-certificate)
   - [Tidyverse Skills for Data Science in R Specialization](https://github.com/marcoshsq/JHUDataScience#about-the-tidyverse-skills-for-data-science-in-r-specialization)
   - [Data Visualization & Dashboarding with R](https://github.com/marcoshsq/JHUDataScience#about-the-data-visualization--dashboarding-with-r)
+- [Projects]((https://github.com/marcoshsq/JHUDataScience#projects)
+
+## 
 
 ### About:
 
@@ -75,6 +78,6 @@ This specialization has five courses:
 
 ##
 
-
+### Projects:
 
 ---
