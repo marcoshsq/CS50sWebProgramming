@@ -11,7 +11,9 @@ This repository contains the projects developed during the Data Science Professi
 
 All courses are taught and offered by Johns Hopkins University through Coursera.
 
----
+Each course/specialization is in a specific folder within the repository, which contains a ``README.md`` file contextualizing each specialization.
+
+##
 
 ## Folders:
 
