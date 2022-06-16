@@ -24,6 +24,8 @@ This specialization has five courses:
 4. [What are the Chances? Probability and Uncertainty in Statistics](https://www.coursera.org/learn/chances-probability-uncertainty-statistics?specialization=data-literacy)
 5. [Data Literacy Capstone – Evaluating Research](https://www.coursera.org/learn/data-literacy-capstone-evaluating-research?specialization=data-literacy)
 
+##
+
 ### About the [Data Science Professional Certificate](https://www.coursera.org/specializations/jhu-data-science):
 
 This specialization has ten courses:
