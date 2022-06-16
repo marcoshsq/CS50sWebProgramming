@@ -10,6 +10,8 @@
 
 This repository contains the projects, activities, and assignments of the professional certificate in data science from the Johns Hopkins University available on Coursera.
 
+ - [Specialization link](https://www.coursera.org/specializations/jhu-data-science)
+
 ##
 
 <h3>Contents:</h3>
