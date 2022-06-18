@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/JHUDataScience">
-    <img src="https://github.com/marcoshsq/JHUDataScience/blob/main/data-science-icon.png" alt="Developer Roadmap" width="120" height="120">
+    <img src="https://github.com/marcoshsq/JHUDataScience/blob/main/data-science-icon.png" alt="Developer Roadmap" width="150" height="">
   </a>
 </p>
 <h2 align="center">Data Science by Johns Hopkins University</h2>
