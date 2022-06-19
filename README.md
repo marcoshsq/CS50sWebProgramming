@@ -7,7 +7,12 @@
 
 ## About:
 
-This repository contains the projects developed during the Data Science Professional Certificate, Data Literacy, Tidyverse Skills, and DataViz & Dashboarding with R Specializations.
+This repository contains the projects, activities and assignments. developed during the:
+
+- Data Science Professional Certificate;
+- Data Literacy Specialization;
+- Tidyverse Skills Specialization; 
+- DataViz & Dashboarding with R Specialization.
 
 All courses are taught and offered by Johns Hopkins University through Coursera.
 
